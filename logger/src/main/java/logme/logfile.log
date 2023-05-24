@@ -1,0 +1,6 @@
+INFO  | 2023-05-24 16:21:00 | [main] logger.App (App.java:16) - In main
+ERROR | 2023-05-24 16:21:00 | [main] logger.App (App.java:17) - Using error
+INFO  | 2023-05-24 16:25:46 | [main] logger.App (App.java:16) - In main
+ERROR | 2023-05-24 16:25:46 | [main] logger.App (App.java:17) - Using error
+INFO  | 2023-05-24 16:25:46 | [main] logger.Sample (Sample.java:9) - In Sample Print
+INFO  | 2023-05-24 16:25:46 | [main] logger.Sample (Sample.java:13) - In Sample display
